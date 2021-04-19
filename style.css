@@ -1,0 +1,92 @@
+body{
+  background: url(images/background6.jpeg)
+  no-repeat center center fixed;
+  font-family: sans-serif;
+  background-size: cover;
+}
+header{
+  width: 95%;
+  margin: auto;
+  overflow: hidden;
+}
+.head{
+  font-size: .8rem;
+  color: white;
+  word-spacing: .7rem;
+  float: left;
+}
+nav{
+  /*margin-top: -65px;*/
+  float: right;
+}
+ul{
+  border-left: 3px solid coral;
+}
+
+li{
+
+  display: inline;
+  padding-right: 1.7rem;
+}
+li a{
+   text-decoration: none;
+  font-weight: bold;
+  color: orange;
+}
+.quote{
+  color: #E8290B;
+  background-color: transparent;
+  padding: .5rem;
+  border-radius: 1.5rem solid #fff;
+  font-weight: bold;
+}
+.container{
+  width: 70%;
+  margin: auto;
+  overflow: hidden;
+  margin-top:5rem;
+}
+showcase h1{
+  color:#fff;
+  font-size: 4rem;
+  margin-bottom: 0;
+  margin-top: -.6rem;
+}
+showcase h3{
+  font-size: 2rem;
+  color:#fff;
+  margin-top: .5rem;
+  letter-spacing: .2rem;
+}
+Showcase p{
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: cursive;
+}
+a button{
+  background-color: transparent;
+  color:#fff;
+  border:2px solid #fff;
+  border-radius: 1.3rem;
+  margin-top: 1rem;
+  padding: 10px;
+}
+aside{
+  width: 90%;
+  color: #fff;
+  margin: auto;
+  font-size: 1.2rem;
+  text-align: right;
+}
+.price{
+  color: gold;
+  font-size: 2rem;
+  padding-left: .7rem;
+}
+.btn{
+  color: #E8290B;;
+  margin-top: -1rem;
+  font-weight: bolder;
+  font-family:cursive;
+  letter-spacing: 3px;
+}
